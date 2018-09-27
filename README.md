@@ -1,2 +1,2 @@
-# build-environment
-General build environment for SUMMA components that require compilation
+# Summa Build Environment
+Dockerfile for creating a docker image with a general build environment for building SUMMA components
